@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Lewis</h1>
-<h3 align="center">Postgraduate Data Science MSc Student at The University of Exeter, United Kingdom🌟.</h3>
+<h3 align="center">Postgraduate Student at The University of Exeter, United Kingdom🌟.</h3>
 
 <br>
 
