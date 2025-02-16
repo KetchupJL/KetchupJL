@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **james066lewis@gmail.com**
 
-- ⚡ Fun fact : I also love sports: Brazilian Jiu Jitsu, Rugby, Climbing and Olympic Weightlifting.
+- ⚡ Fun fact : I also love sports: Climbing and Olympic Weightlifting.
 
 <br>
 
