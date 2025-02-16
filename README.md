@@ -13,7 +13,7 @@
 
 - 📖 MSc Applied Data Science and Statistics, BSc Economics
 
-- 🌱 I’m currently learning Machine Learning and applied Statitical Modelling to Data Science. Using the langauges R and Python.
+- 🌱 I’m currently building a Solana Trading Sniper Bot, Collection Bot and low market cap Predictive Trading Models.
 
 - 📫 How to reach me **james066lewis@gmail.com**
 
