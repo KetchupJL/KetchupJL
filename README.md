@@ -13,7 +13,7 @@
 
 - 📖 MSc Applied Data Science and Statistics, BSc Economics
 
-- 🌱 I’m currently building a Solana Trading Sniper Bot, Collection Bot and low market cap Predictive Trading Models.
+- 🌱 I’m currently building a Solana Trading Sniper Bot, Collection Bot and low market cap Predictive Trading Models and algorithms.
 
 - 📫 How to reach me **james066lewis@gmail.com**
 
