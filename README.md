@@ -2,9 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20James%20Lewis&fontSize=40" />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KetchupJL&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Data+Scientist+%7C+Applied+Statistics;Solana+Dev+%7C+Signal+Sniper+Bot+Builder;Projects+with+Purpose+%7C+Real-Time+Systems;Let%E2%80%99s+build+something+great." alt="Typing SVG" />
 </p>
 
 ---
@@ -103,3 +106,8 @@ My MSc dissertation: Building a **predictive model + strategy** for trading unde
 - Applied statistical modelling with real-time data  
 - Building clean, reproducible analytics pipelines
 
+<p align="center">
+  <a href="https://skyline.github.com/KetchupJL/2024">
+    <img src="https://github.com/KetchupJL/KetchupJL/blob/main/assets/james-lewis-skyline-2024.png" alt="James Lewis GitHub Skyline 2024" width="700" />
+  </a>
+</p>
