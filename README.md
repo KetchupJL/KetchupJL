@@ -10,6 +10,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Data+Scientist+%7C+Applied+Statistics;Solana+Dev+%7C+Signal+Sniper+Bot+Builder;Projects+with+Purpose+%7C+Real-Time+Systems;Let%E2%80%99s+build+something+great." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://skyline.github.com/KetchupJL/2024">
+    <img src="https://github.com/KetchupJL/KetchupJL/blob/main/assets/skyline2024.png" alt="GitHub Skyline" width="600" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
