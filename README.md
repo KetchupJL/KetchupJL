@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm James Lewis 👋</h1>
-<h3 align="center">Data Scientist | MSc Applied Data Science & Statistics | AI x Trading Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20James%20Lewis&fontSize=40" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KetchupJL&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
