@@ -105,9 +105,3 @@ My MSc dissertation: Building a **predictive model + strategy** for trading unde
 - On-chain anomaly detection and micro-cap trading  
 - Applied statistical modelling with real-time data  
 - Building clean, reproducible analytics pipelines
-
-<p align="center">
-  <a href="https://skyline.github.com/KetchupJL/2024">
-    <img src="https://github.com/KetchupJL/KetchupJL/blob/main/assets/james-lewis-skyline-2024.png" alt="James Lewis GitHub Skyline 2024" width="700" />
-  </a>
-</p>
