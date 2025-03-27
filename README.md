@@ -51,7 +51,7 @@ An automated bot for tracking **wallet and token activity** in the Solana ecosys
 ---
 
 ### 🤖 Signal Sniper Bot *(Closed Source)*  
-A private, event-driven trading bot that listens to **Dex Paid token signals**, processes trigger logic, and executes pre-configured trades on Solana.  
+A private, event-driven trading bot that listens to **ALPHA Signals**, processes trigger logic, and executes pre-configured trades on Solana.  
 **Tools:** Python, Solana API, WebSockets, Smart Filtering Logic
 
 ---
