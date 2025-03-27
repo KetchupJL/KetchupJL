@@ -1,82 +1,103 @@
-<h1 align="center">Hi 👋, I'm James Lewis</h1>
-<h3 align="center">Postgraduate Student at The University of Exeter, United Kingdom🌟</h3>
+<h1 align="center">Hi, I'm James Lewis 👋</h1>
+<h3 align="center">Data Scientist | MSc Applied Data Science & Statistics | AI x Trading Enthusiast</h3>
 
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=KetchupJL&label=Profile%20views&color=0e75b6&style=flat"
-    alt="KetchupJL" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-- 📖 MSc Applied Data Science and Statistics, BSc Economics
-
-- 🌱 I’m currently building a Solana Trading Sniper Bot, Collection Bot and low market cap Predictive Trading Models and algorithms.
-
-- 📫 How to reach me **james066lewis@gmail.com**
-
-- ⚡ Fun fact : I also love sports: Climbing and Olympic Weightlifting.
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/james-lewis3/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KetchupJL&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<br>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-     <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://www.jupyter.org" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter"
-      width="40" height="40" /> </a> <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy"
-      width="40" height="40" /> </a> <a href="https://www.pytorch.org" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch"
-      width="40" height="40" /> </a> <a href="https://www.R-project.org" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R"
-      width="40" height="40" /> </a> <a href="https://www.posit.co" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="RStudio"
-      width="40" height="40" />
+## 👨‍💻 About Me
 
-      
+I'm a data science postgrad with a strong stats foundation, practical experience across academic domains, and a growing focus on **algorithmic trading** and **automation**. Most of my recent work has involved modelling and analysing public data in projects ranging from health to environmental impact — giving me a broad toolkit and the ability to get up to speed quickly, whatever the problem.
 
-<br>
+Right now, I’m focused on building systems that combine **data pipelines**, **predictive modelling**, and **real-time signal processing** — especially in the crypto and low-cap trading space.
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=KetchupJL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="KetchupJL" 
-    bg_color=#808080/></p>
+---
 
-<br>
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KetchupJL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="KetchupJL" /></p>
+📌 *A selection of my most technical and meaningful work — blending data science, modelling, and automation.*
 
-<br>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KetchupJL&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="KetchupJL" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🌊 [Phytoplankton Disruption from Deepwater Horizon Spill](https://github.com/KetchupJL/university-projects/tree/main/Communicating%20Data)  
+A zonal time-series and anomaly analysis of the **long-term ecological effects** of the 2010 oil spill on phytoplankton.  
+**Tools:** R, NetCDF, STL Decomposition, Satellite Remote Sensing, Mapping
 
-[KetchupJL](https://github.com/KetchupJL)
+---
+
+### 🦠 [Modelling TB Risk in Brazil with GAMs](https://github.com/KetchupJL/university-projects/tree/main/Advanced%20Topics%20In%20Statistics)  
+Spatial-temporal modelling of tuberculosis cases using **Generalised Additive Models**, stratified by socioeconomic and demographic covariates.  
+**Tools:** R, GAMs (Tweedie), Offsets, Multi-year Interactions
+
+---
+
+### 🔥 [War-Related Fires in Ukraine](https://github.com/KetchupJL/university-projects/tree/main/Ukraine%20War-Fire%20Project)  
+Identified patterns in **conflict-induced fire activity** across space and time using geospatial classification and hierarchical modelling.  
+**Tools:** R, `sf`, `ggplot2`, GAMs, Animation
+
+---
+
+### 🛰️ [Solana Data Collection Bot](https://github.com/KetchupJL/Solana-Bot)  
+An automated bot for tracking **wallet and token activity** in the Solana ecosystem for research and trading.  
+**Tools:** Python, REST APIs, Blockchain Indexing, Time-Series Parsing
+
+---
+
+### 🤖 Signal Sniper Bot *(Closed Source)*  
+A private, event-driven trading bot that listens to **Dex Paid token signals**, processes trigger logic, and executes pre-configured trades on Solana.  
+**Tools:** Python, Solana API, WebSockets, Smart Filtering Logic
+
+---
+
+### 📈 Predictive Trading Model for Low-Cap Tokens *(In Progress)*  
+My MSc dissertation: Building a **predictive model + strategy** for trading undervalued low market cap tokens using price action, momentum, and sentiment signals.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KetchupJL&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetchupJL&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KetchupJL&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Let’s Connect
+
+<p align="center">
+  <a href="mailto:james066lewis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/james-lewis3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 Currently Exploring
+
+- Reinforcement Learning for Portfolio Optimisation  
+- On-chain anomaly detection and micro-cap trading  
+- Applied statistical modelling with real-time data  
+- Building clean, reproducible analytics pipelines
+
