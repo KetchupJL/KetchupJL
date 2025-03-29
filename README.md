@@ -32,7 +32,7 @@ A zonal time-series and anomaly analysis of the **long-term ecological effects**
 
 ---
 
-### 🦠 [Modelling TB Risk in Brazil with GAMs](https://github.com/KetchupJL/university-projects/tree/main/Advanced%20Topics%20In%20Statistics)  
+### 🦠 [Modelling TB Risk in Brazil with GAMs](https://github.com/KetchupJL/university-projects/tree/main/Statistical%20Data%20Modelling%20Projects%20-%20MTHM506/Coursework%202%20-%20Project)  
 Spatial-temporal modelling of tuberculosis cases using **Generalised Additive Models**, stratified by socioeconomic and demographic covariates.  
 **Tools:** R, GAMs (Tweedie), Offsets, Multi-year Interactions
 
