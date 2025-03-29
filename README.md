@@ -44,7 +44,7 @@ Identified patterns in **conflict-induced fire activity** across space and time 
 
 ---
 
-### 🛰️ [Solana Data Collection Bot](https://github.com/KetchupJL/Trading-Bot)  
+### 🛰️ [Solana Data Collection Bot + Automated Alpha Signal Bot](https://github.com/KetchupJL/Trading-Bot)  
 An automated bot for tracking **wallet and token activity** in the Solana ecosystem for research and trading.  
 **Tools:** Python, REST APIs, Blockchain Indexing, Time-Series Parsing
 
