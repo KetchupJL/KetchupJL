@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a data science postgrad with a strong stats foundation, practical experience across academic domains, and a growing focus on **algorithmic trading** and **automation**. Most of my recent work has involved modelling and analysing public data in projects ranging from health to environmental impact — giving me a broad toolkit and the ability to get up to speed quickly, whatever the problem.
+I'm a data science postgrad with a strong stats foundation, practical experience across academic domains, and a growing focus on **algorithmic trading** and **automation**. Most of my recent work has involved modelling, machine learning and analysing public data in projects ranging from health to environmental impact — giving me a broad toolkit and the ability to get up to speed quickly, whatever the problem.
 
 Right now, I’m focused on building systems that combine **data pipelines**, **predictive modelling**, and **real-time signal processing** — especially in the crypto and low-cap trading space.
 
