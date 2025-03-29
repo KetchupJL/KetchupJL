@@ -26,7 +26,7 @@ Right now, I’m focused on building systems that combine **data pipelines**, **
 
 ---
 
-### 🌊 [Phytoplankton Disruption from Deepwater Horizon Spill](https://github.com/KetchupJL/university-projects/tree/main/Communicating%20Data)  
+### 🌊 [Phytoplankton Disruption from Deepwater Horizon Spill](https://github.com/KetchupJL/university-projects/tree/main/Long-Term%20Phytoplankton%20Disruption%20in%20the%20Gulf%20of%20Mexico)  
 A zonal time-series and anomaly analysis of the **long-term ecological effects** of the 2010 oil spill on phytoplankton.  
 **Tools:** R, NetCDF, STL Decomposition, Satellite Remote Sensing, Mapping
 
