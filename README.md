@@ -56,6 +56,13 @@ A private, event-driven trading bot that listens to **ALPHA Signals**, processes
 
 ---
 
+### 🎧 [Predicting Podcast Listening Time (Kaggle Playground S5E4)](https://github.com/yourusername/your-repo-name)
+End-to-end machine learning pipeline for predicting podcast listening time using engineered features and a tuned **LightGBM** model. Includes EDA, model evaluation, and Kaggle submission pipeline. 
+**Tools:** Python, LightGBM, Random Forest, Feature Engineering, Hyperparameter Tuning, Scikit-learn
+
+
+---
+
 ### 📈 Predictive Trading Model for Low-Cap Tokens *(In Progress)*  
 My MSc dissertation: Building a **predictive model + strategy** for trading undervalued low market cap tokens using price action, momentum, and sentiment signals.
 
