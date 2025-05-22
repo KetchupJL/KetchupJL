@@ -63,8 +63,8 @@ End-to-end machine learning pipeline for predicting podcast listening time using
 
 ---
 
-### 📈 Predictive Trading Model for Low-Cap Tokens *(In Progress)*  
-My MSc dissertation: Building a **predictive model + strategy** for trading undervalued low market cap tokens using price action, momentum, and sentiment signals.
+### 📈 Risk-Adjusted Interval Forecasting of multi-day Mid-Cap Solana Token Returns Using Quantile Regression Forests *(In Progress)*  
+My MSc dissertation: 
 
 ---
 
