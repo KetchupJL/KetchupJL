@@ -63,7 +63,7 @@ End-to-end machine learning pipeline for predicting podcast listening time using
 
 ---
 
-### 📈 Risk-Adjusted Interval Forecasting of multi-day Mid-Cap Solana Token Returns Using Quantile Regression Forests *(In Progress)*  
+### 📈 [Risk-Adjusted Interval Forecasting of Mid‑Cap Solana Token Returns Using QRF](https://github.com/KetchupJL/solana-qrf-interval-forecasting)*(In Progress)*  
 My MSc dissertation: 
 
 ---
