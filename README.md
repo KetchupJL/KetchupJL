@@ -26,6 +26,11 @@ Right now, I’m focused on building systems that combine **data pipelines**, **
 
 ---
 
+### 📈 [Risk-Adjusted Interval Forecasting of Mid‑Cap Solana Token Returns Using QRF](https://github.com/KetchupJL/solana-qrf-interval-forecasting)*(In Progress)*  
+MSc dissertation: A research-grade pipeline for 72-hour interval forecasting of mid-cap Solana token returns using Quantile Regression Forests, benchmarked against Linear Quantile Regression and LightGBM residual-bootstrap intervals, with feature-driven tail-risk analysis.
+**Tools:** Python, scikit-garden (QRF), LightGBM, statsmodels QuantReg, CCXT, SQL, pandas, NumPy, REST API, Data Structures and Algorithms
+
+---
 ### 🌊 [Phytoplankton Disruption from Deepwater Horizon Spill](https://github.com/KetchupJL/university-projects/tree/main/Long-Term%20Phytoplankton%20Disruption%20in%20the%20Gulf%20of%20Mexico)  
 A zonal time-series and anomaly analysis of the **long-term ecological effects** of the 2010 oil spill on phytoplankton.  
 **Tools:** R, NetCDF, STL Decomposition, Satellite Remote Sensing, Mapping
@@ -60,11 +65,6 @@ A private, event-driven trading bot that listens to **ALPHA Signals**, processes
 End-to-end machine learning pipeline for predicting podcast listening time using engineered features and a tuned **LightGBM** model. Includes EDA, model evaluation, and Kaggle submission pipeline. 
 **Tools:** Python, LightGBM, Random Forest, Feature Engineering, Hyperparameter Tuning, Scikit-learn
 
-
----
-
-### 📈 [Risk-Adjusted Interval Forecasting of Mid‑Cap Solana Token Returns Using QRF](https://github.com/KetchupJL/solana-qrf-interval-forecasting)*(In Progress)*  
-My MSc dissertation: 
 
 ---
 
