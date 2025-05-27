@@ -27,7 +27,7 @@ Right now, I’m focused on building systems that combine **data pipelines**, **
 ---
 
 ### 📈 [Risk-Adjusted Interval Forecasting of Mid‑Cap Solana Token Returns Using QRF](https://github.com/KetchupJL/solana-qrf-interval-forecasting)*(In Progress)*  
-MSc dissertation: A research-grade pipeline for 72-hour interval forecasting of mid-cap Solana token returns using Quantile Regression Forests, benchmarked against Linear Quantile Regression and LightGBM residual-bootstrap intervals, with feature-driven tail-risk analysis.
+MSc dissertation: A research-grade pipeline for 72-hour interval forecasting of mid-cap Solana token returns using Quantile Regression Forests, benchmarked against Linear Quantile Regression and LightGBM residual-bootstrap intervals, with feature-driven tail-risk analysis.   
 **Tools:** Python, scikit-garden (QRF), LightGBM, statsmodels QuantReg, CCXT, SQL, pandas, NumPy, REST API, Data Structures and Algorithms
 
 ---
