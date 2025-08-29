@@ -26,9 +26,14 @@ Right now, I’m focused on building systems that combine **data pipelines**, **
 
 ---
 
-### 📈 [Risk-Adjusted Interval Forecasting of Mid‑Cap Solana Token Returns Using QRF](https://github.com/KetchupJL/solana-qrf-interval-forecasting)*(In Progress)*  
-MSc dissertation: A research-grade pipeline for 72-hour interval forecasting of mid-cap Solana token returns using Quantile Regression Forests, benchmarked against Linear Quantile Regression and LightGBM residual-bootstrap intervals, with feature-driven tail-risk analysis.   
-**Tools:** Python, scikit-garden (QRF), LightGBM, statsmodels QuantReg, CCXT, SQL, pandas, NumPy, REST API, Data Structures and Algorithms
+### 📈 [Risk-Adjusted Interval Forecasting of Mid-Cap Solana Token Returns Using QRF](https://github.com/KetchupJL/solana-qrf-interval-forecasting)  
+MSc Dissertation (Completed): Developed a **research-grade forecasting pipeline** for 72-hour return intervals of mid-cap Solana tokens.  
+- Designed an **adapted Quantile Regression Forest (QRF)** framework with time-decay weights, isotonic non-crossing enforcement, and regime-aware calibration.  
+- Benchmarked against **Linear Quantile Regression (LQR)** and **LightGBM quantile models** with conformal intervals.  
+- Integrated **on-chain, liquidity, and cross-asset features** to capture tail-risk drivers in volatile markets.  
+- Applied calibrated intervals to **risk-aware trading strategies**, achieving Sharpe ratios ≈ 0.9 with reduced drawdowns.  
+
+**Skills & Tools:** Python · Quantile-Forest (Cython) · LightGBM · statsmodels QuantReg · pandas · NumPy · SQL · Google BigQuery · REST APIs · Data Structures & Algorithms  
 
 ---
 ### 🌊 [Phytoplankton Disruption from Deepwater Horizon Spill](https://github.com/KetchupJL/university-projects/tree/main/Long-Term%20Phytoplankton%20Disruption%20in%20the%20Gulf%20of%20Mexico)  
