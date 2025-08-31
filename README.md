@@ -145,7 +145,16 @@ From statistical modelling and machine learning to reproducible reporting, APIs,
 
 ## 🧠 Currently Exploring
 
-- Reinforcement Learning for Portfolio Optimisation  
-- On-chain anomaly detection and micro-cap trading  
-- Applied statistical modelling with real-time data  
-- Building clean, reproducible analytics pipelines
+- Reinforcement Learning for portfolio optimisation  
+- On-chain anomaly detection and micro-cap trading strategies  
+- Applied statistical modelling with real-time data streams  
+- Building clean, reproducible analytics pipelines  
+
+### Next Steps & Focus Areas
+- Designing and deploying a new **automated algorithmic trading system**  
+- Integrating my **MSc QRF research** into a live trading framework  
+- Expanding **quant analytics** on crypto markets (liquidity, volatility, regime analysis)  
+- Fine-tuning and extending my **Quantile Regression Forest (QRF)** methodology  
+- Developing stronger **computer science & automation skills** (system design, infra)  
+- Beginning to learn **C++** for performance-critical trading applications  
+
