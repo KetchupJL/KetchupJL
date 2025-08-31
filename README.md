@@ -14,9 +14,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a data science postgrad with a strong stats foundation, practical experience across academic domains, and a growing focus on **algorithmic trading** and **automation**. Most of my recent work has involved modelling, machine learning and analysing public data in projects ranging from health to environmental impact — giving me a broad toolkit and the ability to get up to speed quickly, whatever the problem.
+I recently completed my **MSc in Applied Data Science & Statistics**, where I built a strong foundation in statistics, machine learning, and applied research. My projects spanned multiple domains — from health and environmental modelling to financial forecasting — giving me a broad toolkit and the ability to adapt quickly to new problems.
 
-Right now, I’m focused on building systems that combine **data pipelines**, **predictive modelling**, and **real-time signal processing** — especially in the crypto and low-cap trading space.
+My current focus is on **quantitative finance, algorithmic trading, and alpha research**. I’m especially interested in building systems that bring together:
+
+- **Data pipelines** – ingesting and structuring high-frequency blockchain and market data  
+- **Predictive modelling** – developing interpretable ML models for returns, risk, and signal detection  
+- **Real-time infrastructure** – automating execution, monitoring, and signal processing in live markets  
+
+I’m continuing to expand my research into **algorithmic strategies for crypto and mid/high cap tokens**, with an emphasis on combining rigorous statistical methods with practical trading applications. Alongside this, I’m also exploring broader **data science use-cases** such as blockchain analytics and machine learning for financial prediction.  
 
 ---
 
