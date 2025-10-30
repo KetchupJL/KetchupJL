@@ -39,6 +39,8 @@ MSc Dissertation (Completed): Developed a **research-grade forecasting pipeline*
 - Integrated **on-chain, liquidity, and cross-asset features** to capture tail-risk drivers in volatile markets.  
 - Applied calibrated intervals to **risk-aware trading strategies**, achieving Sharpe ratios ≈ 0.9 with reduced drawdowns.  
 
+[https://www.researchgate.net/publication/395025657_Interval_Forecasting_of_Cryptocurrency_Returns_using_Quantile_Regression_Forests_An_Application_to_the_Solana_Ecosystem]
+
 **Skills & Tools:** Python · Quantile-Forest (Cython) · LightGBM · statsmodels QuantReg · pandas · NumPy · SQL · Google BigQuery · REST APIs · Data Structures & Algorithms  
 
 ---
